@@ -1,0 +1,439 @@
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Cheesesquare.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Cheesesquare.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\com.sample.YouTaxi.apk
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\com.sample.YouTaxi-Signed.apk
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\FormsViewGroup.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Newtonsoft.Json.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Plugin.Connectivity.Abstractions.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Plugin.Connectivity.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.Transition.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Core.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Maps.Android.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Maps.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Platform.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\FormsViewGroup.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\FormsViewGroup.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Newtonsoft.Json.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Plugin.Connectivity.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Plugin.Connectivity.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Plugin.Connectivity.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Plugin.Connectivity.Abstractions.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Plugin.Connectivity.Abstractions.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Core.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Core.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Maps.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\Cheesesquare.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\Cheesesquare.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\bin\com.sample.YouTaxi.apk
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\address.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\about.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\layout1.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\values\strings.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable\cheese_1.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable\cheese_2.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable\cheese_3.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable\cheese_4.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable\cheese_5.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_dashboard.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_discuss.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_done.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_event.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_forum.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_headset.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_menu.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_dashboard.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_discuss.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_done.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_event.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_forum.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_headset.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_menu.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_dashboard.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_discuss.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_done.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_event.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_forum.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_headset.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_menu.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_dashboard.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_discuss.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_done.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_event.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_forum.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_headset.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_done.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_menu.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\activity_detail.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\activity_main.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\include_list_viewpager.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\list_item.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\nav_header.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\menu\drawer_view.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\menu\sample_actions.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\values-v21\styles.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\values\colors.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\values\dimens.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\values\styles.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable\cheese_1_small.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable\cheese_2_small.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable\cheese_3_small.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable\cheese_4_small.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable\cheese_5_small.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable\icon.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\reg.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\authorization.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\order.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_info_outline_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_local_taxi_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_map_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_my_location_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_place_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_settings_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_info_outline_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_local_taxi_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_map_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_my_location_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_place_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_settings_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_info_outline_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_local_taxi_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_map_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_my_location_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_place_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_settings_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_info_outline_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_local_taxi_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_map_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_my_location_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_place_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_settings_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_info_outline_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_local_taxi_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_map_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_my_location_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_place_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_settings_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_input_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_input_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_input_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_input_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_input_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_mode_comment_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_mode_comment_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_mode_comment_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_mode_comment_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_mode_comment_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\backline.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\option.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\R.cs.flag
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\uploadflags.txt
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\res\layout\history_fragment.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Cheesesquare.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\YouTaxi.csprojResolveAssemblyReference.cache
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Java.Interop.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Mono.Android.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\Mono.CSharp.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\mscorlib.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\System.Core.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\System.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\System.IO.Compression.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\System.Net.Http.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\System.Numerics.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\System.Xml.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\bin\Debug\System.Xml.Linq.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\Cheesesquare.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\System.Core.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\System.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\System.Numerics.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Debug\Cheesesquare.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Cheesesquare.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Cheesesquare.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\com.sample.YouTaxi.apk
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\com.sample.YouTaxi-Signed.apk
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\FormsViewGroup.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Newtonsoft.Json.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Plugin.Connectivity.Abstractions.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Plugin.Connectivity.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.Transition.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Core.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Maps.Android.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Maps.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Platform.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\FormsViewGroup.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\FormsViewGroup.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Newtonsoft.Json.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Plugin.Connectivity.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Plugin.Connectivity.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Plugin.Connectivity.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Plugin.Connectivity.Abstractions.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Plugin.Connectivity.Abstractions.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Core.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Core.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Maps.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\Cheesesquare.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\Cheesesquare.pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\bin\com.sample.YouTaxi.apk
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\address.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\about.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\layout1.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\values\strings.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable\cheese_1.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable\cheese_2.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable\cheese_3.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable\cheese_4.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable\cheese_5.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_dashboard.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_discuss.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_done.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_event.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_forum.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_headset.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_menu.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_dashboard.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_discuss.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_done.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_event.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_forum.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_headset.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_menu.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_dashboard.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_discuss.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_done.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_event.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_forum.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_headset.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_menu.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_dashboard.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_discuss.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_done.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_event.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_forum.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_headset.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_done.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_menu.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\activity_detail.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\activity_main.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\history_fragment.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\include_list_viewpager.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\list_item.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\nav_header.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\menu\drawer_view.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\menu\sample_actions.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\values-v21\styles.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\values\colors.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\values\dimens.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\values\styles.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable\cheese_1_small.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable\cheese_2_small.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable\cheese_3_small.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable\cheese_4_small.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable\cheese_5_small.jpg
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable\icon.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\reg.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\authorization.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\order.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_info_outline_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_local_taxi_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_map_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_my_location_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_place_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_settings_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_info_outline_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_local_taxi_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_map_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_my_location_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_place_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_settings_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_info_outline_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_local_taxi_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_map_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_my_location_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_place_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_settings_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_info_outline_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_local_taxi_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_map_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_my_location_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_place_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_settings_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_info_outline_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_local_taxi_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_map_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_my_location_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_place_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_settings_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_input_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_input_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_input_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_input_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_input_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxxhdpi\ic_mode_comment_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-hdpi\ic_mode_comment_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-mdpi\ic_mode_comment_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xhdpi\ic_mode_comment_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\drawable-xxhdpi\ic_mode_comment_black_24dp.png
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\backline.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\res\layout\option.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\R.cs.flag
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\uploadflags.txt
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\YouTaxi.csprojResolveAssemblyReference.cache
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Cheesesquare.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Java.Interop.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Mono.Android.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Mono.CSharp.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\mscorlib.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\System.Core.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\System.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\System.IO.Compression.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\System.Net.Http.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\System.Numerics.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\System.Xml.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\System.Xml.Linq.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\Cheesesquare.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\System.Core.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\System.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\System.Numerics.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\obj\Debug\Cheesesquare.dll.mdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare от 23.06 водитель\Cheesesquare\bin\Debug\Cheesesquare.dll.mdb

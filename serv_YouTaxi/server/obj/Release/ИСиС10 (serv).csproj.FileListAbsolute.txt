@@ -1,0 +1,8 @@
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\bin\Release\ИСиС10 (serv).exe.config
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\bin\Release\ИСиС10 (serv).exe
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\bin\Release\ИСиС10 (serv).pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\bin\Release\Newtonsoft.Json.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\bin\Release\Newtonsoft.Json.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\obj\Release\ИСиС10 (serv).csprojResolveAssemblyReference.cache
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\obj\Release\ИСиС10 (serv).exe
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\obj\Release\ИСиС10 (serv).pdb

@@ -1,0 +1,26 @@
+c:\users\zzzka\documents\visual studio 2017\Projects\ИСиС10 (serv)\ИСиС10 (serv)\bin\Debug\ИСиС10 (serv).exe.config
+c:\users\zzzka\documents\visual studio 2017\Projects\ИСиС10 (serv)\ИСиС10 (serv)\bin\Debug\ИСиС10 (serv).exe
+c:\users\zzzka\documents\visual studio 2017\Projects\ИСиС10 (serv)\ИСиС10 (serv)\bin\Debug\ИСиС10 (serv).pdb
+c:\users\zzzka\documents\visual studio 2017\Projects\ИСиС10 (serv)\ИСиС10 (serv)\obj\Debug\ИСиС10 (serv).exe
+c:\users\zzzka\documents\visual studio 2017\Projects\ИСиС10 (serv)\ИСиС10 (serv)\obj\Debug\ИСиС10 (serv).pdb
+C:\Users\zzzka\Documents\Visual Studio 2017\Projects\ИСиС10 (serv)\ИСиС10 (serv)\obj\Debug\ИСиС10 (serv).csprojResolveAssemblyReference.cache
+D:\CloudMail.ru\Documents\Visual Studio 2017\Projects\YouTaxi_Projects\ИСиС10 (serv)\ИСиС10 (serv)\obj\Debug\ИСиС10 (serv).exe
+D:\CloudMail.ru\Documents\Visual Studio 2017\Projects\YouTaxi_Projects\ИСиС10 (serv)\ИСиС10 (serv)\obj\Debug\ИСиС10 (serv).pdb
+D:\CloudMail.ru\Documents\Visual Studio 2017\Projects\YouTaxi_Projects\ИСиС10 (serv)\ИСиС10 (serv)\bin\Debug\ИСиС10 (serv).exe.config
+D:\CloudMail.ru\Documents\Visual Studio 2017\Projects\YouTaxi_Projects\ИСиС10 (serv)\ИСиС10 (serv)\bin\Debug\ИСиС10 (serv).exe
+D:\CloudMail.ru\Documents\Visual Studio 2017\Projects\YouTaxi_Projects\ИСиС10 (serv)\ИСиС10 (serv)\bin\Debug\ИСиС10 (serv).pdb
+D:\CloudMail.ru\Documents\Visual Studio 2017\Projects\YouTaxi_Projects\ИСиС10 (serv)\ИСиС10 (serv)\obj\Debug\ИСиС10 (serv).csprojResolveAssemblyReference.cache
+D:\CloudMail.ru\Documents\Visual Studio 2017\Projects\YouTaxi_Projects\Serv_YouTaxi\ИСиС10 (serv)\bin\Debug\ИСиС10 (serv).exe.config
+D:\CloudMail.ru\Documents\Visual Studio 2017\Projects\YouTaxi_Projects\Serv_YouTaxi\ИСиС10 (serv)\bin\Debug\ИСиС10 (serv).exe
+D:\CloudMail.ru\Documents\Visual Studio 2017\Projects\YouTaxi_Projects\Serv_YouTaxi\ИСиС10 (serv)\bin\Debug\ИСиС10 (serv).pdb
+D:\CloudMail.ru\Documents\Visual Studio 2017\Projects\YouTaxi_Projects\Serv_YouTaxi\ИСиС10 (serv)\obj\Debug\ИСиС10 (serv).csprojResolveAssemblyReference.cache
+D:\CloudMail.ru\Documents\Visual Studio 2017\Projects\YouTaxi_Projects\Serv_YouTaxi\ИСиС10 (serv)\obj\Debug\ИСиС10 (serv).exe
+D:\CloudMail.ru\Documents\Visual Studio 2017\Projects\YouTaxi_Projects\Serv_YouTaxi\ИСиС10 (serv)\obj\Debug\ИСиС10 (serv).pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\bin\Debug\ИСиС10 (serv).exe.config
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\bin\Debug\ИСиС10 (serv).exe
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\bin\Debug\ИСиС10 (serv).pdb
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\bin\Debug\Newtonsoft.Json.dll
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\bin\Debug\Newtonsoft.Json.xml
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\obj\Debug\ИСиС10 (serv).csprojResolveAssemblyReference.cache
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\obj\Debug\ИСиС10 (serv).exe
+D:\CloudMail.ru\Учеба\Дипломный проект\Serv_YouTaxi_with_JSON\ИСиС10 (serv)\obj\Debug\ИСиС10 (serv).pdb

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.sample.YouTaxi" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="19" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <application android:label="YouTaxi водитель" android:theme="@style/Theme.DesignDemo" android:icon="@drawable/ic_place_black_24dp" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="О нас" android:name="md5f1de3999714392015b12ca472ce4875b.AboutActivity" />
+    <activity android:label="Адрес" android:name="md5f1de3999714392015b12ca472ce4875b.AddressActivity" />
+    <activity android:icon="@drawable/icon" android:label="Обратная связь" android:name="md5f1de3999714392015b12ca472ce4875b.BackLineActivity" />
+    <activity android:label="YouTaxi водитель" android:name="md5f1de3999714392015b12ca472ce4875b.BaseActivity" />
+    <activity android:icon="@drawable/icon" android:label="YouTaxi водитель" android:name="md5f1de3999714392015b12ca472ce4875b.AuthorizationActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Настройки" android:name="md5f1de3999714392015b12ca472ce4875b.OptionActivity" />
+    <activity android:icon="@drawable/icon" android:label="Регистрация" android:name="md5f1de3999714392015b12ca472ce4875b.RegActivity" />
+    <receiver android:enabled="true" android:label="Connectivity Plugin Broadcast Receiver" android:name="md5ebcbedcc9f4271e586379ac7977363a7.ConnectivityChangeBroadcastReceiver" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.sample.YouTaxi.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.sample.YouTaxi" />
+      </intent-filter>
+    </receiver>
+    <activity android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:exported="false" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+  </application>
+  <activity android:name=".BaseActivity" android:windowSoftInputMode="stateVisible|adjustResize" />
+  <uses-feature android:glEsVersion="0x00020000" android:required="true" />
+</manifest>

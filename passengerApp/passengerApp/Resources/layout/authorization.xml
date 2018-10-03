@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="#FFFFFF"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+    
+      <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dip"
+        android:layout_weight="0.5"
+        android:id="@+id/LinearLayout">
+        
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"        
+            android:paddingLeft="20dip"
+            android:paddingRight="20dip"
+            android:paddingBottom="10dip">
+              <EditText
+              android:id="@+id/num"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:inputType="number"
+              android:hint="Номер телефона"
+              android:maxLength="11"/>
+        </android.support.design.widget.TextInputLayout>       
+           
+             <Button
+                android:id="@+id/GetSMS"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:text="Получить пароль"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginRight="60dp"
+                android:layout_marginLeft="60dp"
+                android:paddingBottom="15dip"/>
+        
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"        
+            android:paddingLeft="20dip"
+            android:paddingRight="20dip"
+            android:paddingBottom="15dip">
+              <EditText
+              android:id="@+id/pas"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:inputType="number"
+              android:hint="Пароль из СМС"
+              android:maxLength="5"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <ProgressBar
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          style="@android:style/Widget.ProgressBar.Small"
+          android:layout_marginRight="5dp"
+          android:id="@+id/ProgressB"/>
+        
+    </LinearLayout>
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,12 @@
+<resources><string name="app_name">YouTaxi</string><string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string><string name="checkin">Checkin</string><string name="menu_settings">Настройки</string><string name="lic">
+    Тут написано. Много чего написано. Да и знать все не обязательно что написано.
+    написано так для фона. Дальше можете не читать. Все! остановись же. Ну как хочешь сам решил, это твой выбор.
+    тут написано тут напсиано тут написано тут напсиано тут написано тут напсиано тут написано тут напсиано тут написано тут напсиано
+    тут написано тут напсиано тут написано тут напсиано тут написано тут напсиано тут написано тут напсиано тут написано тут напсиано
+    тут написано тут напсиано тут написано тут напсиано тут написано тут напсиано тут написано тут напсиано тут написано тут напсиано
+    тут написано тут напсиано тут написано тут напсиано тут написано тут напсиано тут написано тут напсиано тут написано тут напсиано.
+  </string><string-array name="cities"><item>Выбрать город</item><item>Комсомольск-на-Амуре</item><item>Хабаровск</item><item>Амурск</item></string-array><string-array name="type_point"><item>Укажите куда подъехать</item><item>Частный дом</item><item>Центральный вход</item><item>1 подъезд</item><item>2 подъезд</item><item>3 подъезд</item><item>4 подъезд</item><item>5 подъезд</item><item>6 подъезд</item><item>7 подъезд</item></string-array></resources>

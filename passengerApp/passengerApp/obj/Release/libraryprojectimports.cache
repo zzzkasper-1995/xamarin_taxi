@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Plugin.Connectivity\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Forms.Maps.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Android.Support.Transition\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Android.Support.v7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Android.Support.Design\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.GooglePlayServices.Basement\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.GooglePlayServices.Base\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.GooglePlayServices.Maps\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Plugin.Connectivity\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Xamarin.Forms.Maps.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Plugin.Connectivity.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Forms.Maps.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.Android.Support.Design.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.GooglePlayServices.Basement.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.GooglePlayServices.Base.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\CloudMail.ru\Учеба\Дипломный проект\Cheesesquare — копия от 15.06\Cheesesquare\obj\Release\__library_projects__\Xamarin.GooglePlayServices.Maps.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="#FFFFFF"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+    
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal"
+        android:paddingTop="10dip">
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:gravity="center"
+        android:layout_gravity="top|center"
+        android:id="@+id/TextWar"
+        android:textSize="18sp"/>
+      
+        <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dip"
+        android:paddingRight="20dip"
+        android:paddingBottom="10dip"
+        android:id="@+id/lDeparture">
+          <EditText
+          android:id="@+id/EditDeparture"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:hint="Пункт отправления"
+          android:drawableLeft="@drawable/ic_my_location_black_24dp"
+          android:windowSoftInputMode="stateVisible|adjustPan"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dip"
+        android:paddingRight="20dip"
+        android:paddingBottom="10dip"
+        android:id="@+id/lArrival">
+          <EditText
+          android:id="@+id/EditArrival"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:hint="Пункт назначения"
+          android:drawableLeft="@drawable/ic_place_black_24dp"
+          android:windowSoftInputMode="stateVisible|adjustPan"/>
+        </android.support.design.widget.TextInputLayout>
+      
+        <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dip"
+        android:paddingLeft="20dip"
+        android:paddingRight="20dip"
+        android:paddingBottom="10dip"
+        android:id="@+id/lcomment">
+          <EditText
+          android:id="@+id/comment"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:hint="Комментарий к заказу"
+          android:drawableLeft="@drawable/ic_mode_comment_black_24dp"
+          android:windowSoftInputMode="stateVisible|adjustPan"/>
+        </android.support.design.widget.TextInputLayout>
+
+         <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dip"
+            android:paddingRight="20dip"
+            android:paddingBottom="10dip"
+            android:textColor="#000000"
+            android:gravity="left"
+            android:id="@+id/TextState"/>
+      
+          <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dip"
+            android:paddingRight="20dip"
+            android:paddingBottom="10dip"
+            android:textColor="#000000"
+            android:gravity="left"
+            android:layout_gravity="bottom|left"
+            android:id="@+id/TextPrice"/>
+
+          <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:paddingLeft="20dip"
+           android:paddingRight="20dip"
+           android:textColor="#000000"
+           android:gravity="center"
+           android:layout_gravity="bottom|right"
+           android:id="@+id/TextYardage"/>
+
+      <LinearLayout
+          android:orientation="horizontal"
+          android:layout_height="45dp"
+          android:layout_width="match_parent"
+          android:gravity="center_horizontal"
+          android:paddingTop="10dip"
+          android:layout_gravity="bottom"
+          android:id="@+id/lButtons">
+
+            <Button
+             android:text=""
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:gravity="center"
+             android:layout_gravity="bottom"
+             android:layout_weight="0.5"
+             android:background="#ffee58"
+             android:id="@+id/KillOrder"/>
+
+            <Button
+             android:text=""
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:gravity="center"
+             android:layout_gravity="bottom"
+             android:layout_weight="0.5"
+             android:background="#ffee58"
+             android:id="@+id/SendMove"/>
+          </LinearLayout>
+      
+    </LinearLayout>
+
+  </android.support.v4.widget.DrawerLayout>
